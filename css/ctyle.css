@@ -1,0 +1,39 @@
+.contact-container {
+  background: cyan;
+  width: 400px;
+  padding: 40px;
+  box-sizing: border-box;
+  /* margin-top: 40px; */
+}
+.tech-skills_container {
+  background: darkgoldenrod;
+  width: 400px;
+  padding: 40px;
+  box-sizing: border-box;
+  margin-top: 40px;
+}
+
+.soft-skills_container {
+  background: darkgreen;
+  width: 400px;
+  padding: 40px;
+  box-sizing: border-box;
+  margin-top: 40px;
+}
+
+.tech_skills_title {
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.tech-skills_item {
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.main_conteiner {
+  display: flex;
+  flex-direction: column-reverse;
+}
